@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dbrookfield
-- 👀 I’m interested in everything. I'm very curious!
-- 🌱 I’m currently learning to SpryPoint
-- 💞️ I’m looking to collaborate on innovation, charitable work, you name it.
+- 👀 I love to learn about new technology
+- 🌱 I’m currently learning more about AI and Dynamics 365
+- 💞️ I am an exceptional mentor, probably because I enjoy it so much
 - 📫 How to reach me - however you want. Phone, cell, Slack, Hangouts, etc.
 
 <!---
