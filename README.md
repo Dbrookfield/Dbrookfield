@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dbrookfield
+- 👋 Hi, I’m Denise Brookfield
 - 👀 I love to learn about new technology
 - 🌱 I’m currently learning more about AI and Dynamics 365
 - 💞️ I am an exceptional mentor, probably because I enjoy it so much
